@@ -17,7 +17,7 @@
 
 #define MAYOR 1
 #define MINOR 0
-#define PATCH 3
+#define PATCH 4
 #define WIFI_SSID "JAVI"
 #define WIFI_PASS "xavier1234"
 
